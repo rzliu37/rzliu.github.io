@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Using evolutionary theory to hypothesize a transition from patriliny to matriliny and back again among the ethnic Mosuo of Southwest China"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021p-m
+excerpt: 'Transitions to matriliny are said to be relatively rare. This evidence is sometimes used to support arguments that perceive matriliny as a problematic and unstable system of kinship. In this article, we use an evolutionary perspective to trace changes in kinship to and from matriliny among the Mosuo of Southwest China as potentially adaptive. The Mosuo are famous for practicing a relatively rare form of female-biased kinship involving matrilineal descent and inheritance, natalocal residence, and a non-marital reproductive system (‘walking marriage’ or sese). Less well documented is their patrilineal subpopulation, who practice male-biased, patrilineal inheritance and descent, patrilocal residence, and exclusive marriage. Our analysis supports the existence of a prior transition to matriliny at least a millennium ago among Mosuo residing in the Yongning Basin, followed by a subsequent transition to patriliny among Mosuo residing in the more rugged mountainous terrain near Labai. We argue that these transitions make sense in light of economic, social, and political conditions that disfavor versus favor disproportionate investments in men, in matriliny versus patriliny, respectively. We conclude that additional evidence of such transitions would shed light on explanations of variation in kinship and that convergent approaches involving analysis of genetic, archaeological, and ethnohistorical data would provide holistic understandings of kinship and social change.'
+date: 2021-03
+venue: 'Matrix: A Journal for Matricultural Studies'
+paperurl: 'http://rzliu37.github.io/files/2021p-m.pdf'
+citation: 'Mattison, S. M., Sum, C. Y., Reynolds, A. Z., Baca, G. D., Blumenfield, T., Niedbalski, S., ... & Wander, K. (2021). Using evolutionary theory to hypothesize a transition from patriliny to matriliny and back again among the ethnic Mosuo of Southwest China. Matrix: A Journal for Matricultural Studies.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
