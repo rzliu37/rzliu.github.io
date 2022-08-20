@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Alternative Adaptation Strategy during the Paleolithic–Neolithic Transition: Potential Use of Aquatic Resources in the Western Middle Yangtze Valley, China"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020_RHBF
+excerpt: 'The middle Yangtze Valley is an important region for studying the origin of rice agriculture. Archaeological remains of rice have been found in sites such as Pengtoushan and Bashidang as early as 8000 years ago. However, we know little about the adaptive diversity in this region as research has mostly focused on rice cultivation. With the help of new discoveries, this paper explores another adaptation behavior pattern that emphasizes the utilization of aquatic resources in the western part of the Jianghan Plain during the Paleolithic–Neolithic transition. Although the sea level was continuously rising with the warming process of early Holocene, the lakes that later became widely distributed were still in formation, thus not available for human utilization in the middle Yangtze Valley. However, most notably, the amelioration of the environment was producing a sort of new niche: utilizing aquatic resources became possible at least in parts of this region. A case study from the Guanzhou Site, based on lithics, suggests there were increasing demands for the utilization of aquatic resources. The study proposes that at least two different adaptation strategy changes occurred in the western Jianghan Plain during the Paleolithic–Neolithic transition, i.e., rice agriculture or complex hunting–gathering. These strategies represent adaptations to the different ecological conditions at the crossroads of habitat types.'
+date: 2020-09-21
+venue: 'Quaternary'
+paperurl: 'http://academicpages.github.io/files/2020RHBF.pdf'
+citation: 'Liu, Ruizhe, Hui Liu, and Shengqian Chen. 2020. "Alternative Adaptation Strategy during the Paleolithic–Neolithic Transition: Potential Use of Aquatic Resources in the Western Middle Yangtze Valley, China" Quaternary 3, no. 3: 28. https://doi.org/10.3390/quat3030028.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The middle Yangtze Valley is an important region for studying the origin of rice agriculture. Archaeological remains of rice have been found in sites such as Pengtoushan and Bashidang as early as 8000 years ago. However, we know little about the adaptive diversity in this region as research has mostly focused on rice cultivation. With the help of new discoveries, this paper explores another adaptation behavior pattern that emphasizes the utilization of aquatic resources in the western part of the Jianghan Plain during the Paleolithic–Neolithic transition. Although the sea level was continuously rising with the warming process of early Holocene, the lakes that later became widely distributed were still in formation, thus not available for human utilization in the middle Yangtze Valley. However, most notably, the amelioration of the environment was producing a sort of new niche: utilizing aquatic resources became possible at least in parts of this region. A case study from the Guanzhou Site, based on lithics, suggests there were increasing demands for the utilization of aquatic resources. The study proposes that at least two different adaptation strategy changes occurred in the western Jianghan Plain during the Paleolithic–Neolithic transition, i.e., rice agriculture or complex hunting–gathering. These strategies represent adaptations to the different ecological conditions at the crossroads of habitat types.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Liu, Ruizhe, Hui Liu, and Shengqian Chen. 2020. "Alternative Adaptation Strategy during the Paleolithic–Neolithic Transition: Potential Use of Aquatic Resources in the Western Middle Yangtze Valley, China" Quaternary 3, no. 3: 28. https://doi.org/10.3390/quat3030028.
