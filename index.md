@@ -16,6 +16,7 @@ As an anthropologist, I am interested in human cooperation pattern and their soc
 
 As an archaeologiest, I am interested in the human behaviors and technology in prehistory world. I focus on their adaptive strategies via ethnography, lithic analysis and experiments.
 
+- HBE | SNA | Kinship | Cooperation & Social Structure | Lithic Analysis | Prehistory Archaeology 
 
 ## Education
 
