@@ -2,7 +2,9 @@
 
 Ruizhe (she/her) 
 
-- /ʒʊeɪ-dʒɜ:/, or Rachel (similar pronouciation as my Chinese name)
+- /ʒʊeɪ-dʒɜ:/
+
+-  or Rachel (similar pronouciation as my Chinese name)
 
 ## About
 
