@@ -1,5 +1,7 @@
-# 
-## Ruizhe Liu (she/her)
+
+
+# Ruizhe Liu 
+## (she/her)
 
 Ruizhe - /ʒʊeɪ-dʒɜ:/, or Rachel (similar pronouciation as my Chinese name)
 
