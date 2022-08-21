@@ -1,12 +1,10 @@
 
 
-## About
-
 Ruizhe (she/her) 
 
 - /ʒʊeɪ-dʒɜ:/, or Rachel (similar pronouciation as my Chinese name)
 
-## Research
+## About
 
 I am a PhD candidate (4th year) in evolutionary anthropology, University of New Mexico.
 
