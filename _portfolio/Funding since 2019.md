@@ -12,7 +12,7 @@ NSF DDRIG
 
 - Research grant for "Does reliance on kin erode with market integration? A social network perspective?"
 
-- [UNM anthropology department news](https://anthropology.unm.edu/news-events/news/item/ruizhe-liu-awarded-a-national-science-foundation-nsf-doctoral-dissertation-research-improvement-grant.html）
+- [UNM anthropology department news] (https://anthropology.unm.edu/news-events/news/item/ruizhe-liu-awarded-a-national-science-foundation-nsf-doctoral-dissertation-research-improvement-grant.html）
 
 
 Powell Endowment Fund
@@ -37,7 +37,7 @@ NSF REG
 
 - Research grant for "Does market integration reduce reliance on kin? "
 
-- [UNM anthropology department news](https://anthropology.unm.edu/news-events/news/item/ruizhe-liu-awarded-nsf-cultural-anthropology-research-experience-for-graduates.html)
+- [UNM anthropology department news] (https://anthropology.unm.edu/news-events/news/item/ruizhe-liu-awarded-nsf-cultural-anthropology-research-experience-for-graduates.html)
 
 
 OGS GATA Award
