@@ -1,9 +1,8 @@
-#
-Ruizhe Liu (she/her)
+##                Ruizhe Liu (she/her)
 
 Ruizhe - /ʒʊeɪ-dʒɜ:/, or Rachel (similar pronouciation as my Chinese name)
 
-# About
+## About
 
 I am a PhD candidate (4th year) in evolutionary anthropology, University of New Mexico.
 
