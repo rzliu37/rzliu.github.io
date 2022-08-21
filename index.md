@@ -12,7 +12,7 @@ As an archaeologiest, I am interested in the human behaviors and technology in p
 
 ## Education
 
-2019-     PhD program, Anthropology, University of New Mexico, U.S.
+2019-now  PhD program, Anthropology, University of New Mexico, U.S.
 
 2019-2022 M.S., Anthropology, University of New Mexico, U.S.
 
