@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruizhe Liu / 刘睿喆"
 title_separator          : "-"
-name                     : &name "name"
+name                     : &name "Ruizhe (Rachel) Liu"
 description              : &description "personal description"
 url                      : https://rzliu37.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
