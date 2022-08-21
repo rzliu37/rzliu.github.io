@@ -1,8 +1,10 @@
 
 
-Ruizhe (she/her) 
+Ruizhe Liu (she/her) 
 
 - /ʒʊeɪ-dʒɜ:/
+
+
 
 -  or Rachel (similar pronouciation as my Chinese name)
 
