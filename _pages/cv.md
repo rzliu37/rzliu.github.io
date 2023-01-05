@@ -16,6 +16,22 @@ Education
 * M.S. in Evolutionary Anthropology, University of New Mexico, 2022
 * Ph.D in Evolutioanry Anthropology, University of New Mexico, 2024 (expected)
 
+Skills
+======
+* Data collection, fieldwork experience since undergraduate
+  * Archaeology excavation
+  * Ethnology surveys
+  * In-person and phone call interview
+  * Data curation
+  * Lab management, including artifacts record, storage and analysis
+* Data analysis 
+  * Statistical analysis
+  * Social Network analysis
+  * Agent-based modeling 
+* Lithic analysis and experiments design
+* Research design
+
+
 Work experience
 ======
 * Sring 2021: Research Assistant
@@ -36,20 +52,6 @@ Work experience
    * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
 
   
-Skills
-======
-* Data collection, fieldwork experience since undergraduate
-  * Archaeology excavation
-  * Ethnology surveys
-  * In-person and phone call interview
-  * Data curation
-  * Lab management, including artifacts record, storage and analysis
-* Data analysis 
-  * Statistical analysis
-  * Social Network analysis
-  * Agent-based modeling 
-* Lithic analysis and experiments design
-* Research design
 
 Publications
 ======
