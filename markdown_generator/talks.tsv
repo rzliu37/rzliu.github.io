@@ -1,5 +1,5 @@
 * This page is not finished 
 
-title	type	url_slug	venue	date	location	talk_url	description
+title	type	url_slug	venue	date	location	talk_url	                     description
 Talk 1 	Talk	talk-1	Unversity, Department of xxx	2012-03-01	location name xxx, xxx		Description. Yay markdown!
 Talk 2 	Talk	talk-2	Unversity, Department of xxx	2012-03-01	location name xxx, xxx		Description. Yay markdown!
