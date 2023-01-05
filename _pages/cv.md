@@ -32,8 +32,8 @@ Work experience
 
  
  * Fall 2021 - now: Self-employed tutor 
-  * Via social media
-  * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
+   * Via social media
+   * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
 
   
 Skills
