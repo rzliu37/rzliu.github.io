@@ -7,7 +7,6 @@ redirect_from:
   - /contact.html
 ---
 
-## Contact
 
 * Email: rzliu at unm dot edu
 * Address: Department of Anthropology, MSC01-1040, 1 University of New Mexico, Albuquerque, NM 87131-0001
