@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Archaeology, Jilin University, China, 2016
+* M.A. in Archaeology, Renmin University of China, 2019
+* M.S. in Evolutionary Anthropology, University of New Mexico, 2022
+* Ph.D in Evolutioanry Anthropology, University of New Mexico, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sring 2021: Research Assistant
+  * University of New Mexico
+  * Duties included: Data curation. data analysis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019 - now: Graduate Assistant
+  * University of New Mexico
+  * Duties included: Grading, learn system arrangement, lab, office hour
+  
+* Fall 2019 - 2021: Part-time tutor 
+  * Macle platform
+  * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
+
+ 
+ * Fall 2021 - now: Self-employed tutor 
+  * Via social media
+  * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data collection, fieldwork experience since undergraduate
+  * Archaeology excavation
+  * Ethnology surveys
+  * In-person and phone call interview
+  * Data curation
+  * Lab management, including artifacts record, storage and analysis
+* Data analysis 
+  * Statistical analysis
+  * Social Network analysis
+  * Agent-based modeling 
+* Lithic analysis and experiments design
+* Research design
 
 Publications
 ======
@@ -56,4 +71,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
+* Graduate Student Representative (2022-2024), UNM IRB board
+* Reviewer for Human Nature (2020)
+* Co-reviewer for Proceedings of The Royal Society B (2021)
+
+
