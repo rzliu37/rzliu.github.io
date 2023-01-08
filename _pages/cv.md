@@ -41,15 +41,6 @@ Work experience
 * Fall 2019 - now: Graduate Assistant
   * University of New Mexico
   * Duties included: Grading, learn system arrangement, lab, office hour
-  
-* Fall 2019 - 2021: Part-time tutor 
-  * Macle platform
-  * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
-
- 
- * Fall 2021 - now: Self-employed tutor 
-   * Via social media
-   * Duties included: editing CV, Personal statement, and academic email, PhD/Master program selection, funding information
 
   
 
