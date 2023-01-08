@@ -10,7 +10,7 @@ Graduate Scholarship
 
 - 2016-2019
 
-- Top student of Class (GPA: 3.9)
+
 
 
 
@@ -20,6 +20,6 @@ Undergraduate scholarship
 
 - 2013-2016
 
-- Excellent student in department (GPA: 3.71); Best debater
+
 
 
