@@ -5,8 +5,10 @@ Ruizhe Liu (she/her)
 - /ʒʊeɪ-dʒɜ:/
 
 
-
 -  or Rachel (similar pronouciation as my Chinese name)
+
+
+-  My blog: [Culture Explorer RZ](https://cultureexplorerrz.blogspot.com/)
 
 ## About
 
