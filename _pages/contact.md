@@ -14,4 +14,5 @@ redirect_from:
 * Researchgate: [RZL's rg](https://www.researchgate.net/profile/Ruizhe-Liu-2)
 * Google scholar: [RZL's google scholar](https://scholar.google.com/citations?user=UHj9L3QAAAAJ&hl=en)
 * Twitter: [@rzliu_anth](https://twitter.com/rzliu_anth)
+* Blog: [Culture Explorer RZ](https://cultureexplorerrz.blogspot.com/)
 
