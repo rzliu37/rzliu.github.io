@@ -8,7 +8,7 @@ Ruizhe Liu (she/her)
 -  or Rachel (similar pronouciation as my Chinese name)
 
 
--  My blog: [Culture Explorer RZ](https://cultureexplorerrz.blogspot.com/)
+-  My blog: [Culture Explorer RZ](https://cultureexplorerrz.blogspot.com/) check my fieldwork updates via my blog or "Blog posts" here
 
 ## About
 
