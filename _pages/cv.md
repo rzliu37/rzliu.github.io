@@ -19,13 +19,13 @@ Education
 * Ph.D in Evolutioanry Anthropology, University of New Mexico, 2024 (expected)
 
 
-Service and leadership
+Service & Appointment 
 ======
-* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
 * Graduate Student Representative (2022-2024), UNM IRB board
-* Reviewer for Human Nature (2020)
-* Co-reviewer for Proceedings of The Royal Society B (2021)
 * NSF CAMP fellow (2022) [CAMP link](https://methods4all.org/camp-fellows/) 
+* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
+* Co-reviewer for Proceedings of The Royal Society B (2021)
+* Reviewer for Human Nature (2020)
 
 
 
