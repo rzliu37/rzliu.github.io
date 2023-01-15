@@ -9,12 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.A. in Archaeology, Jilin University, China, 2016
 * M.A. in Archaeology, Renmin University of China, 2019
 * M.S. in Evolutionary Anthropology, University of New Mexico, 2022
 * Ph.D in Evolutioanry Anthropology, University of New Mexico, 2024 (expected)
+
+
+Service and leadership
+======
+* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
+* Graduate Student Representative (2022-2024), UNM IRB board
+* Reviewer for Human Nature (2020)
+* Co-reviewer for Proceedings of The Royal Society B (2021)
+* NSF CAMP fellow (2022) [CAMP link](https://methods4all.org/camp-fellows/) 
+
+
 
 Skills
 ======
@@ -42,7 +55,8 @@ Work experience
   * University of New Mexico
   * Duties included: Grading, learn system arrangement, lab, office hour
 
-  
+
+
 
 Publications
 ======
@@ -62,11 +76,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Student Representative (2020-2022), Woman in the Evolutionary& Behavioral Science (WEBS)
-* Graduate Student Representative (2022-2024), UNM IRB board
-* Reviewer for Human Nature (2020)
-* Co-reviewer for Proceedings of The Royal Society B (2021)
+
 
 
