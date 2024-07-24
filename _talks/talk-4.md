@@ -1,5 +1,5 @@
 ---
-title: "Comparative Archaeology"
+title: "Comparative Archaeology 2023"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-4
