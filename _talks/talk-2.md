@@ -2,7 +2,7 @@
 title: "AABA 2024 "
 collection: talks
 type: "Poster"
-permalink: /talks/talk-2
+permalink: /talks/talk-3
 venue: "American Association of Biological Anthropology"
 date: 2024-03-21
 location: "Los Angeles, CA, USA"
