@@ -1,5 +1,5 @@
 ---
-title: "Funding since 2019"
+title: "Fundings and Awards"
 excerpt: "Fellowship, Scholarship and grants"
 collection: portfolio
 ---
@@ -59,13 +59,27 @@ NSF REG $6,000
 - [Department news](https://anthropology.unm.edu/news-events/news/item/ruizhe-liu-awarded-nsf-cultural-anthropology-research-experience-for-graduates.html)
 
 
-OGS GATA Award
+OGS GATA Award (PhD in evolutionary anthropology, USA)
 ======
 - University of New Mexico
 
 - 2019Fall-current
 
-- Tuition; Assistantship; 
+- Tuition; Assistantship;
+
+
+Graduate Scholarship (MA in archaeology, China)
+======
+- Renmin University of China
+
+- 2016-2019
+
+
+Undergraduate scholarship (BA in archaeology, China)
+======
+- Jilin University
+
+- 2013-2016
 
 
 
